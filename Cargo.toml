@@ -1,0 +1,11 @@
+[package]
+name = "universal-recipe-helper"
+version = "0.1.0"
+authors = ["Justin Hu <justin.hu@alumni.ubc.ca>"]
+edition = "2021"
+description = "A game-agnostic crafting recipe planner"
+homepage = "https://github.com/JustinHuPrime/universal-recipe-helper#readme"
+repository = "https://github.com/JustinHuPrime/universal-recipe-helper"
+license = "GPL-3.0-or-later"
+
+[dependencies]
